@@ -20,6 +20,14 @@ h1 {
     color: #e8d4b2;
 }
 
+h1:hover {
+    color: red;
+    cursor: pointer;
+
+    transition: color 0.3s;
+
+}
+
 a {
     color: #fee389;
 }
